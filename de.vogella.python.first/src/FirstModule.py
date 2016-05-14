@@ -17,5 +17,6 @@ def addFixedValue(a):
 
 print (chicken(1, 2))
 print (addFixedValue(4))
+print (addFixedValue(8))
 
 print("Hello World!")
