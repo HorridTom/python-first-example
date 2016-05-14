@@ -4,3 +4,4 @@ by Lars Vogel.
 It contains one module, "FirstModule.py", comprising two classes "chicken" and
 "addFixedValue". This serves as a simple example that I am using to learn about
 LiClipse, Git, GitHub etc.
+The project does not do anything useful.
