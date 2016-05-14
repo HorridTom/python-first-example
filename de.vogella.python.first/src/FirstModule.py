@@ -5,12 +5,13 @@ Created on 24 Feb 2016
 '''
 # Example project
 
+
 def chicken(a, b):
     return a + b
 
 
 def addFixedValue(a):
-    y = 2
+    y = 3
     return y + a
 
 
